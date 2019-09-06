@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - que5",
+            "request": "launch",
+            "mainClass": "que5",
+            "projectName": "Practice exercise 1_15f00963"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - que3",
+            "request": "launch",
+            "mainClass": "que3",
+            "projectName": "Practice exercise 1_15f00963"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - que2",
+            "request": "launch",
+            "mainClass": "que2",
+            "projectName": "Practice exercise 1_15f00963"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - que10",
+            "request": "launch",
+            "mainClass": "que10",
+            "projectName": "Practice exercise 1_15f00963"
+        }
+    ]
+}
